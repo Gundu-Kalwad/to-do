@@ -1,4 +1,4 @@
-package com.yourcompany.yourapp
+package com.jamirodev.todoapp
 
 import org.junit.Test
 
