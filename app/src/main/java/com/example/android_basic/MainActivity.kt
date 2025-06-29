@@ -1,5 +1,4 @@
-// src/main/java/com/yourpackage/MainActivity.kt
-package com.yourpackage
+package com.example.android_basic
 
 import android.app.Activity
 import android.os.Bundle
